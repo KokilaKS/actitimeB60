@@ -1,4 +1,4 @@
-package page;
+package scripts;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
